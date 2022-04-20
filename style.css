@@ -1,9 +1,9 @@
 body{
-    font: 20px Arial, Serif;
+    font: 20px  Calibri, Cambria;
     margin: auto;
 }
 .navbar {
-    background-color: white;
+    background-color: rgb(255, 239, 231);
 }
 
 .nav-link {
@@ -11,15 +11,15 @@ body{
 }
 
 .serviços{
-    background-color: #EC7063;
+    background-color: rgb(250, 196, 152);
     padding-top: 50px;
     padding-bottom: 50px;
-    color:white;
+    color:black;
 
 }
 
 .quem-somos{
-    background-color: #FAD7A0;
+    background-color: rgb(255, 218, 197);
     padding-top: 50px;
     padding-bottom: 50px;
     color:black;
@@ -40,4 +40,19 @@ body{
 .bg-footer{
     background-color: black;
     color: white;
+}
+
+.text{
+    text-align: justify;
+    
+}
+
+.home{
+    padding: 30px;
+}
+
+.title{
+    color: rgb(255, 88, 0);
+    font-weight: bolder;
+
 }
